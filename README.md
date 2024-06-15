@@ -28,11 +28,8 @@ Data Testing tidak diberikan informasi mengenai distribusi kelasnya, sehingga tu
 Catatan Penting:
 1. Apabila anda menggunakan dataset yang kami sediakan di atas, bila anda menggunakan semua dataset untuk melaksanakan penelitian shared task ini, anda diharuskan mendaftarkan tim peneliti anda di dalam link berikut:https://forms.gle/jhUyGAsyUYs7AdMk9
 2. Setelah mengisi link, anda diminta menghubungi kami di email sagustian.learning [at] gmail [dot] com, dan mengonfirmasi pendaftaran ke nomor WA : 0821.8484-4118 (chat only)
-3. Anda akan diberikan password untuk membuka data, dan link untuk pendaftaran username dan tim, agar dapat mensubmit hasil penelitian anda di leader board (papan ranking).
-4. Bila anda hanya tertarik melakukan penelitian mandiri untuk klasifikasi sentimen, dan anda tidak berpartisipasi di dalam shared task ini, anda dapat menggunakan data set yang tersedia secara gratis, dengan syarat, anda mensitasi salah satu paper berikut:
-
-
-Penggunaan dataset Kaesang (training dan testing) atau Dataset Open Topic:
+3. Anda akan diberikan password untuk membuka data, dan link untuk pendaftaran username dan tim, agar dapat mensubmit hasil penelitian anda di leader board (papan ranking).4
+4. Saat anda melaporkan hasil penelitian anda di dalam shared task ini, anda diminta juga mencuplik hasil Leader board di dalam data hasil pengujian anda, minimal untuk menampilkan score tim yang berada pada Rank1, Organizer (acuan nilai klasifikasi yang perlu dilampaui sebagai nilai score rata-rata performa ML pada umumnya setelah beberapa langkah optimasi), dan Admin (baseline metode tanpa optimasi). Anda juga diminta mensitasi paper di bawah ini:
 
 Agustian dkk. (2024), Arah baru penelitian klasifikasi teks: Memaksimalkan Kinerja Klasifikasi Sentimen dari Data Terbatas, <to be appeard in journal....>
 
@@ -40,7 +37,11 @@ Agustian dkk. (2024), New Directions in Text Classification Research: Maximizing
 
 Agustian dkk. (2024), Addressing Small Dataset Challenges in Sentiment Classification through Machine Learning and Optimization, <to be appeared in Proceeding of ICAAC 2024, Bali, Indonesia >
 
-Penggunaan dataset Sentimen Program Vaksin Covid (pilih salah satu atau beberapa):
+5. Bila anda hanya tertarik melakukan penelitian mandiri untuk klasifikasi sentimen, dan anda tidak berpartisipasi di dalam shared task ini, anda dapat menggunakan data set yang tersedia secara gratis, dengan syarat, anda mensitasi salah satu paper berikut:
+
+Penggunaan dataset Kaesang (training dan testing) atau Dataset Open Topic saja untuk penelitian sendiri: Sitasi paper dalam point nomor 4
+
+Hanya menggunakan dataset Sentimen Program Vaksin Covid untuk penelitian sendiri (pilih salah satu atau beberapa):
 
 Yohana P, Agustian S, Kurnia Gusti S (2022) Klasifikasi Sentimen Masyarakat terhadap Kebijakan Vaksin Covid-19 pada Twitter dengan Imbalance Classes Menggunakan Naive Bayes, SNTIKI (Seminar Nasional Teknologi Informasi, Komunikasi dan Industri) (2022) 
 
