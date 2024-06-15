@@ -28,7 +28,7 @@ Data Testing tidak diberikan informasi mengenai distribusi kelasnya, sehingga tu
 Catatan Penting:
 1. Apabila anda menggunakan dataset yang kami sediakan di atas, bila anda menggunakan semua dataset untuk melaksanakan penelitian shared task ini, anda diharuskan mendaftarkan tim peneliti anda di dalam link berikut:https://forms.gle/jhUyGAsyUYs7AdMk9
 2. Setelah mengisi link, anda diminta menghubungi kami di email sagustian.learning [at] gmail [dot] com, dan mengonfirmasi pendaftaran ke nomor WA : 0821.8484-4118 (chat only)
-3. Anda akan diberikan link untuk pendaftaran username dan tim, agar dapat mensubmit hasil penelitian anda di leader board (papan ranking).
+3. Anda akan diberikan password untuk membuka data, dan link untuk pendaftaran username dan tim, agar dapat mensubmit hasil penelitian anda di leader board (papan ranking).
 4. Bila anda hanya tertarik melakukan penelitian mandiri untuk klasifikasi sentimen, dan anda tidak berpartisipasi di dalam shared task ini, anda dapat menggunakan data set yang tersedia secara gratis, dengan syarat, anda mensitasi salah satu paper berikut:
 
 
